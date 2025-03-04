@@ -1,0 +1,10 @@
+steps to perform push operation
+git init
+git status
+git add .
+gut status
+git commit -m "First Commit"
+git config --global user.email ""
+git config --global user.name ""
+git remote add origin "URL of repository"
+git push origin master
